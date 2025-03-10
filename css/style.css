@@ -1,0 +1,16 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.galeria div{
+  width: 30%;
+  display: inline-block;
+}
+
+.img1{
+  filter: drop-shadow(0 0 50px red);
+}
+
+
