@@ -4,29 +4,42 @@
   box-sizing: border-box;
 }
 
+
 .galeria div{
   width: 30%;
   display: inline-block;
 }
 
+img{
+  width:30%;
+  height:30%;
+}
+
 .img1{
   filter: drop-shadow(0 0 50px red);
 }
-
 .img2{
   filter: drop-shadow(0 0 50px green);
   
 }
-
-
-
 .img3{
   filter: drop-shadow(0 0 50px aqua);
 }
-
 .img4{
   filter: drop-shadow(0 0 50px green);
 }
-
-
-
+.img5{
+  filter: drop-shadow(0 0 50px blue);
+}
+.img6{
+  filter: drop-shadow(0 0 50px blue);
+}
+.img7{
+  filter: drop-shadow(0 0 50px blue);
+}
+.img8{
+  filter: drop-shadow(0 0 50px rgb(75, 97, 97));
+}
+.img9{
+  filter: drop-shadow(0 0 50px aqua);
+}
