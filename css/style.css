@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css2?family=Emblema+One&display=swap');
+
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body{
+  background-image: url("../images/giphy.gif") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+h1{
+  color: white;
+  margin: 0 0 0 50px;
+  font-size: 100px;
+  font-family:"Emblema One",system-ui ;
+}
+
+.galeria{
+  background-color: rgba(0, 0, 0, 0.623) ;
+  border-radius: 20px;
+}
+
+.galeria div{
+  margin: 60px;
+  display: inline-block;
+}
+
+.galeria div img{
+  height: 400px;
+  padding: 40px;
+}
+
+.img1{
+  filter: drop-shadow(0 0 20px red);
+  
+}
+.img2{
+  filter: drop-shadow(0 0 20px green);
+  
+}
+.img3{
+  filter: drop-shadow(0 0 20px aqua);
+}
+.img4{
+  filter: drop-shadow(0 0 20px green);
+}
+.img5{
+  filter: drop-shadow(0 0 20px blue);
+}
+.img6{
+  filter: drop-shadow(0 0 20px blue);
+}
+.img7{
+  filter: drop-shadow(0 0 20px blue);
+}
+.img8{
+  filter: drop-shadow(0 0 20px rgb(75, 97, 97));
+}
+.img9{
+  filter: drop-shadow(0 0 20px red);
+}
+.img10{
+  filter: drop-shadow(0 0 20px red);
+}
+.img11{
+  filter: drop-shadow(0 0 20px rgb(126, 107, 231));
+}
+.img12{
+  filter: drop-shadow(0 0 20px rgb(228, 231, 15));
+}
+.img13{
+  filter: drop-shadow(0 0 20px rgb(236, 77, 103));
+
+}
+.img14{
+  filter: drop-shadow(0 0 20px green);
+}
+.img15{
+  filter: drop-shadow(0 0 20px yellow);
+}
+.img16{
+  filter: drop-shadow(0 0 20px rgb(13, 231, 13));
+} 
+.img17{
+  filter: drop-shadow(0 0 20px violet);
+}
+.img18{
+  filter: drop-shadow(0 0 20px rgb(255, 0, 255));
+}
+.img19{
+  filter: drop-shadow(0 0 20px rgb(23, 23, 255));
+}
+.img20{
+  filter: drop-shadow(0 0 20px rgba(5, 209, 209, 0.767));
+}
+.img21{
+  filter: drop-shadow(0 0 20px rgb(255, 1, 191));
+}
+.img22{
+  filter: drop-shadow(0 0 20px rgba(206, 1, 155, 0.801));
+}
+.img23{
+  filter: drop-shadow(0 0 20px red);
+}
+.img24{
+  filter: drop-shadow(0 0 20px yellow);
+}
+.img25{
+  filter: drop-shadow(0 0 20px rgb(209, 55, 209));
+}
+.img26{
+  filter: drop-shadow(0 0 20px red);
+}
+.img27{
+  filter: drop-shadow(0 0 20px green);
+}
+.img28{
+  filter: drop-shadow(0 0 20px aqua);
+}
+.img29{
+  filter: drop-shadow(0 0 20px green);
+}
+.img30{
+  filter: drop-shadow(0 0 20px blue);
+}
+.img31{
+  filter: drop-shadow(0 0 20px blue);
+}
+.img32{
+  filter: drop-shadow(0 0 20px blue);
+}
+.img33{
+  filter: drop-shadow(0 0 20px rgb(75, 97, 97));
+}
+.img34{
+  filter: drop-shadow(0 0 20px red);
+}
+.img35{
+  filter: drop-shadow(0 0 20px red);
+}
+.img36{
+  filter: drop-shadow(0 0 20px rgb(126, 107, 231));
+}
+.img37{
+  filter: drop-shadow(0 0 20px rgb(228, 231, 15));
+}
+.img38{
+  filter: drop-shadow(0 0 20px rgb(236, 77, 103));
+}
+.img39{
+  filter: drop-shadow(0 0 20px green);
+}
+.img40{
+  filter: drop-shadow(0 0 20px yellow);
+}
+.img41{
+  filter: drop-shadow(0 0 20px rgb(13, 231, 13));
+} 
+.img42{
+  filter: drop-shadow(0 0 20px violet);
+}
+.img43{
+  filter: drop-shadow(0 0 20px rgb(21, 255, 0));
+}
+.img44{
+  filter: drop-shadow(0 0 20px rgb(68, 68, 255));
+}
+.img45{
+  filter: drop-shadow(0 0 20px rgba(5, 209, 209, 0.767));
+}
+.img46{
+  filter: drop-shadow(0 0 20px rgba(206, 1, 155, 0.801));
+}
+.img47{
+  filter: drop-shadow(0 0 20px rgba(206, 1, 155, 0.801));
+}
+.img48{
+  filter: drop-shadow(0 0 20px red);
+}
+.img49{
+  filter: drop-shadow(0 0 20px yellow);
+}
+.img50{
+  filter: drop-shadow(0 0 20px rgb(255, 64, 255));
+}
+.img51{
+  filter: drop-shadow(0 0 20px rgb(209, 42, 209));
+}
+.img52{
+  filter: drop-shadow(0 0 20px rgb(83, 73, 231));
+}
+.img53{
+  filter: drop-shadow(0 0 20px rgb(164, 238, 26));
+}
+.img54{
+  filter: drop-shadow(0 0 20px rgb(248, 26, 248));
+}
