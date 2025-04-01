@@ -28,8 +28,8 @@ h1{
 
 .galeria div{
   display: inline-block;
-  height: 60rem;
-  width: 40rem;
+  height: 50rem;
+  width: 35rem;
   margin: 10px;
   background-color: rgba(0, 0, 0, 0.623) ;
   text-align: center;
@@ -49,7 +49,7 @@ h1{
 }
 
 img{
-  height: 70%;
+  height: 60%;
   margin: 10px 0;
   object-fit: contain;
   cursor: pointer;
