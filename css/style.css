@@ -32,8 +32,8 @@ h1 {
 /* Estableco el tamao que tendra la galeria */
 .galeria {
   margin: 10px 60px; /* Establesco los margenes para qe el conteido se vea centrado */
-  width: 200vh;  /* Ancho de la galeria */
-  height: 20vh;  /* Alto de mi galeria */
+  width: 90%;  /* Ancho de la galeria */
+
 }
 
 /* Creo las tarjetas de la galeria */
@@ -78,6 +78,41 @@ img:hover {
   transform: scale3d(1.3, 1.3, 1.3); /* Cuando el curso esta sobre la imagen esta escala "saliendo" de la card */
   transition: 1s; /* Para que la trancion de la scala no se vea de golpe */
 }
+
+/* Diseño apadtables para ipads y moviles */
+@media (max-width:768px) {
+  .galeria div{
+    width: 30%;
+    height: 50%;
+  } 
+
+  h1{
+    font-size:30px;
+  }
+
+  .header{
+    font-size: 10px;
+  }
+
+  .footer{
+    font-size: 8px;
+  }
+
+  img{
+    width:50% ;
+    height:50% ;
+  }
+}
+
+@media (max-width:480px){
+  .galeria div{
+    width: 60%;
+    margin: 20px auto;
+    height: 50%;
+    display: block;
+  } 
+}
+
 
 /* Los siguientes lineas de codigo son los sombreados de cada personaje */
 .img1 {
